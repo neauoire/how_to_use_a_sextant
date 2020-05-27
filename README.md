@@ -10,7 +10,7 @@ The scale of a sextant has a length of one sixth of a full circle (60°); hence 
 
 The sextant makes use of two mirrors. With this sextant, one of the mirrors (mirror A in the diagram) is half-silvered, which allows some light to pass through. In navigating, you look at the horizon through this mirror.
 
-
+![sextant](01.jpg)
 
 The other mirror (mirror B in the diagram) is attached to a movable arm. Light from an object, let's say the sun, reflects off this mirror.
 
@@ -24,11 +24,17 @@ It can measure an angle with precision to the nearest ten seconds.
 
 There's no way around it: Celestial navigation using a sextant is a complex and involved process that involves a fair amount of calculating, correcting, referring to tables, knowledge of the heavens and the Earth, as well as a lot of common sense.  (No wonder it's been so quickly replaced by the satellite-dependent Global Positioning System, or GPS)
 	
+![sextant](02.gif)
+
 But the basic principles behind celestial navigation are fairly straightforward. Here are a few examples that show how a sextant can be used to find location...
+
+![sextant](03.jpg)
 
 Finding latitude is easy enough. The first thing you need to do is measure the angle between the horizon and the sun when the sun is at its highest point, which is right around noontime on your watch. A quick look at your trusty tables tells you which line of latitude the sun should be above on that particular day. For example, let's say it's noon on December 21, and the sun is directly overhead.  Well, on that day the sun is above the Tropic of Capricorn, so your latitude would have to be 23.5 degrees S.
 
 It's a good thing, if you're a navigator, that the Earth spins around at such an even pace. Every hour it moves 15 degrees. This means that if the sun is above the longitude of 0 degrees at noon, one hour later it will be above 15 degrees West. Now if you have a chronometer (this is just a fancy name meaning "extremely accurate clock"), you can find your longitude. Let's say that the sun is directly overhead and your chronometer, which was set to noon when you were at 0 degrees, says it's 3 o'clock position.
+
+![sextant](04.jpg)
 
 This means that three hours ago the sun was overhead at this latitude at 0 degrees longitude. In those three hours, the sun moved 15 degrees 3 times, or 45 degrees. So you're at 45 degrees West. Of course, the fact that the sun was directly overhead (which very rarely happens) made it especially convenient for finding your longitude, but you could have found your longitude anyway, with the help of your tables.
 
